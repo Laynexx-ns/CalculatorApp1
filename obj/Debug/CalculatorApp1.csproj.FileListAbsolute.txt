@@ -1,0 +1,11 @@
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\bin\Debug\CalculatorApp1.exe.config
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\bin\Debug\CalculatorApp1.exe
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\bin\Debug\CalculatorApp1.pdb
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.csproj.GenerateResource.cache
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.exe
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.pdb
+C:\Users\Анатолий\Desktop\C#\WFAlesson3\CalculatorApp1\obj\Debug\CalculatorApp1.bttminus.resources
